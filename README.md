@@ -1,5 +1,5 @@
 # sxcce-website
-# Education Purpose
+# Educational Purpose
 # website : - https://sxcce-edu.netlify.app
 # only Main Page 🔥
 # Best for Desktop Site & User-friendly for Mobile layout
