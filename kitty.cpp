@@ -1,0 +1,38 @@
+                                            .-. __ _ .-.
+                                                 |  `  / \  |
+                                                 /     '.()--\
+                                                |         '._/
+                                               _| O   _   O |_
+                                               =\    '-'    /=
+                                                 '-._____.-'
+                                                 /`/\___/\`\
+                                                /\/o     o\/\
+                                               (_|         |_)
+                                                 |____,____|
+                                                 (____|____)
+        -XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-
+      __XXXXX__XXXXX__XXXXX__XXXXX__XXXXX__XXXXX__XXXXX__XXXXX__XXXXX__XXXXX__XXXXX__XXXXX__XXXXX__
+  XXXXX___XXXXX___XXXXX___XXXXX___XXXXX___XXXXX___XXXXX___XXXXX___XXXXX___XXXXX___XXXXX___XXXXX___XXXXX
+      XXX[____]XXX[____]XXX[____]XXX[____]XXX[____]XXX[____]XXX[____]XXX[____]XXX[____]XXX[____]XXX
+ XXX_______XXX_______XXX_______XXX_______XXX_______XXX_______XXX_______XXX_______XXX_______XXX_______XXX
+       XXX________XXX________XXX________XXX________XXX________XXX________XXX________XXX________XXX
+   ]X[_________]X[_________]X[_________]X[_________]X[_________]X[_________]X[_________]X[_________]X[
+X____________X____________X____________X____________X____________X____________X____________X____________X
+          i_____________i_____________i_____________i_____________i_____________i_____________i
+       i______________i______________i______________i______________i______________i______________i
+    i_______________i_______________i_______________i_______________i_______________i_______________i
+ :________________:________________:________________:________________:________________:________________:
+ -XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-
+3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D
+ -XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-
+ :"""""""""""""""":"""""""""""""""":"""""""""""""""":"""""""""""""""":"""""""""""""""":"""""""""""""""":
+    i"""""""""""""""i"""""""""""""""i"""""""""""""""i"""""""""""""""i"""""""""""""""i"""""""""""""""i
+       i""""""""""""""i""""""""""""""i""""""""""""""i""""""""""""""i""""""""""""""i""""""""""""""i
+          i"""""""""""""i"""""""""""""i"""""""""""""i"""""""""""""i"""""""""""""i"""""""""""""i
+X""""""""""""X""""""""""""X""""""""""""X""""""""""""X""""""""""""X""""""""""""X""""""""""""X""""""""""""X
+   ]X["""""""""]X["""""""""]X["""""""""]X["""""""""]X["""""""""]X["""""""""]X["""""""""]X["""""""""]X[
+       XXX""""""""XXX""""""""XXX""""""""XXX""""""""XXX""""""""XXX""""""""XXX""""""""XXX""""""""XXX
+ XXX"""""""XXX"""""""XXX"""""""XXX"""""""XXX"""""""XXX"""""""XXX"""""""XXX"""""""XXX"""""""XXX"""""""XXX
+      XXX[""""]XXX[""""]XXX[""""]XXX[""""]XXX[""""]XXX[""""]XXX[""""]XXX[""""]XXX[""""]XXX[""""]XXX
+  XXXXX"""XXXXX"""XXXXX"""XXXXX"""XXXXX"""XXXXX"""XXXXX"""XXXXX"""XXXXX"""XXXXX"""XXXXX"""XXXXX"""XXXXX
+      ""XXXXX""XXXXX""XXXXX""XXXXX""XXXXX""XXXXX""XXXXX""XXXXX""XXXXX""XXXXX""XXXXX""XXXXX""XXXXX""
